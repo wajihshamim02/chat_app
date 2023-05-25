@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647895129785",
+    "project_id": "buzz-chat-a1c42",
+    "storage_bucket": "buzz-chat-a1c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647895129785:android:6abc691da125104bc24568",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647895129785-i470ha6k00knmg4e1rq6hv4u776o563c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkqOU5c-QcoIhBaX4BBpJYzRWUC4dQLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647895129785-i470ha6k00knmg4e1rq6hv4u776o563c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
